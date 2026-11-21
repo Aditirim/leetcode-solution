@@ -1,1 +1,2 @@
-check for the solutions by me for a particuar ques on leetcode 
+check for the solutions by me for questions on leetcode 
+language used --> JAVA
