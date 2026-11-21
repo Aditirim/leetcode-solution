@@ -1,1 +1,1 @@
-check for the solutions by me for a particuar ques
+check for the solutions by me for a particuar ques on leetcode 
